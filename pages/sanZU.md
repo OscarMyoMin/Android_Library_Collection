@@ -1,5 +1,7 @@
 # sanztou
 
+By - [SanKoKo](https://github.com/SanKoKo)
+
 [Click Here For lib](https://github.com/SanKoKo/sanztou)
 
 zawgyi to uni or uni to zawgyi
