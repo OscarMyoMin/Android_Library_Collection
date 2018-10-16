@@ -1,6 +1,6 @@
 # SanDatabaseHandler
 
-By - [anKoKo](https://github.com/SanKoKo)
+By - [SanKoKo](https://github.com/SanKoKo)
 
 [Click Here For Lib](https://github.com/SanKoKo/SanDatabaseHandler)
 
